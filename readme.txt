@@ -1,2 +1,2 @@
-Inicio del proyecto Git
-Línea de prueba para la evidencia
+Línea creada desde GitHub para prueba de sincronización.
+
